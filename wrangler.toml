@@ -1,5 +1,8 @@
 name = "jezweb-analysis-tool"
 compatibility_date = "2024-01-01"
-
-# Pages configuration
 pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "CACHE"
+id = "834cc7fee4b8487196a67443f241996e"
+preview_id = "3476ff4e449b4bd7822960e6cb2c9801"
